@@ -14,7 +14,7 @@ This project predicts Apple stock prices using machine learning models. Various 
     pip install -r requirements.txt
     ```
 
-3. **Run the main script to train and evaluate models:**
+3. **Launch Jupyter Notebook and open main.ipynb to train and evaluate models:**
     ```
     jupyter notebook Apple_stock_prediction.ipynb
     ```
