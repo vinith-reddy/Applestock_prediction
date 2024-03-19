@@ -6,7 +6,7 @@ This project predicts Apple stock prices using machine learning models. Various 
 ## Implementation
 1. **Clone the repository:**
     ```
-    git clone <repository_url>
+    git clone https://github.com/vinith-reddy/Applestock_prediction
     ```
 
 2. **Install the required dependencies:**
@@ -16,7 +16,7 @@ This project predicts Apple stock prices using machine learning models. Various 
 
 3. **Run the main script to train and evaluate models:**
     ```
-    python main.py
+    jupyter notebook Apple_stock_prediction.ipynb
     ```
 
 ## Models Explored
